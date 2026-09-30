@@ -1,0 +1,517 @@
+JusTICe
+
+JusTech & Innovation Centre
+
+Strategic Framework and Vision
+
+Advancing Justice through Artificial Intelligence and Technology Law, Innovation, and Gross National Happiness
+
+Jigme Singye Wangchuck School of Law
+
+Pangbisa, Paro, Bhutan
+
+Table of Contents
+
+1. Background2
+
+2. Strategic Foundations2
+
+2.1 Vision2
+
+2.2 Mission3
+
+2.3 Strategic Purpose3
+
+2.4 Mandate3
+
+2.5 Core Values and Guiding Principles3
+
+3. Strategic Direction4
+
+3.1 JusTICe 2035 - The North Star4
+
+3.2 JusTICe Proposition4
+
+3.3 Strategic Architecture5
+
+4. Flagship Goals6
+
+Goal 1: Establish JusTICe as Bhutan's Leading Centre for Research, Ethical Policy Development, and Technology Law Capacity Building6
+
+Goal 2: Position JusTICe as Bhutan's Thought Leader and Regional Voice on the Law of Tech and Digital Justice6
+
+Goal 3: Improve Access to Justice Through Digital Innovation and People-Centred Legal Services7
+
+Goal 4: Establish and Operationalise the Justice Innovation Lab as a National Platform for Collaborative Innovation and Justice Entrepreneurship8
+
+5. Institutional Enablers8
+
+5.1 Governance Structure8
+
+5.2 Partner Ecosystem and Resource Mobilisation9
+
+5.3 Leveraging JSW’s Experiential Learning Framework10
+
+5.4 Data and Digital Governance11
+
+5.5 Infrastructure11
+
+6. Three-Year Implementation Framework: 2026–202911
+
+7. Measurement Matrix12
+
+1. Background 
+
+Justice is entering a period of transformation driven by digital platforms, data, and artificial intelligence. In the face of global poly-crises, interconnected global crises (climate breakdown, extreme inequality, authoritarianism, disruptive AI) causing burnout, anxiety, and overwhelm,  these technologies are changing not only the tools used within justice systems, but also the sphere of judicial influence, how legal professionals work, the meaning of a “just” solution, and how citizens access and experience justice. They offer real gains in accessibility, efficiency, and transparency, but also raise questions of privacy, bias, accountability, human oversight, and environmental impact that cannot be separated from decisions about the technology itself.
+
+For Bhutan, this is an opportunity to question how the emerging future can be shaped responsibly and in line with the country's constitutional values and the principles of Gross National Happiness (GNH) - human dignity, inclusion, compassion, and wellbeing.
+
+It is incumbent upon us to create a novel perspective with respect to technology evolution and governance – one that grounds modern digital transformation in human values, ethical stewardship, and sustainable progress. 
+
+Empirical requirements of Bhutan's justice sector institutions together with global developments point to a need that can be understood as four interconnected gaps:
+
+Knowledge - study of the legal, ethical, and institutional implications of emerging technologies.
+
+Governance - coordination between legal and technical frameworks to frame public policy that is consistent with GNH and constitutional principles.
+
+Innovation - a space to encourage entrepreneurship, prototype, test, and evaluate solutions. .
+
+Hub - building an ecosystem linking justice institutions, ultimate beneficiaries, technologists, academia, changemakers and policymakers.
+
+These gaps are connected – influencing and impacting each other – and is the foundational mandate of JusTICe - to serve as Bhutan's national hub for research, teaching, and policy in technology law, while catalysing transformation through tested, deployable solutions.
+
+AI and digital systems are moving from experimentation into everyday institutional life, and the choices Bhutan makes now about how they are governed and designed will shape the society far more than the technologies themselves. JusTICe exists to build that capacity deliberately and mindfully, grounded in  human dignity and GNH.
+
+2. Strategic Foundations
+
+2.1 Vision
+
+To shape a just, ethical, and technologically empowered global society where innovation serves humanity and upholds the principles of GNH.
+
+2.2 Mission
+
+To advance justice through technology, bridging legal scholarship, digital innovation, and policy reform in service of systems that are fair, efficient, transparent, inclusive and accessible, through compassionate leadership that guides how Bhutan understands and governs emerging technologies putting GNH and mindfulness at the center.
+
+2.3 Strategic Purpose
+
+JusTICe exists to keep innovation anchored in law, human dignity, and GNH. Its purpose is to anticipate change, generate knowledge, connect institutions, and enable responsible experimentation, so that Bhutan actively shapes the ongoing civilizational transformation.
+
+2.4 Mandate
+
+Established as a centre within the Jigme Singye Wangchuck School of Law under the Academic Council, JusTICe plans, coordinates, implements, monitors, and continuously improves initiatives across its core areas of responsibility. To achieve its mandates, JusTICe leads academic research and policy support, modernises service delivery, engages key stakeholders, strengthens institutional capacity, mobilises resources, manages domain knowledge, and ensures transparent accountability for results.
+
+Mandate I - Academic Leadership in AI and Technology Law: JusTICe will function as Bhutan's national hub for academic research, teaching, and policy development in the evolving fields of technology law and AI governance.
+
+Mandate II - Innovation & Transformation in Legal Systems: JusTICe will serve as a catalyst for digital transformation by designing, testing, and implementing AI-based solutions. This involves utilizing machine learning algorithms and data analytics to identify bottlenecks in the justice system and deploying automated tools to simplify legal processes.
+
+2.5 Core Values and Guiding Principles
+
+Between 20–22 July 2026, representatives of 17 institutions, namely, the Anti-Corruption Commission, the Bar Council of Bhutan, Bhutan Alternative Dispute Resolution Centre, Bhutan InfoComm and Media Authority, Bhutan National Legal Institute, College of Science and Technology, Department of Media, Creative Industry and Intellectual Property, Druk Holding Investment, GovTech Agency, Gyalpozhing College of Information Technology, Legal Aid Centre, National Commission for Women and Children, Office of the Attorney General, Pema Secretariat, Royal Bhutan Police, the Supreme Court of Bhutan, Thimphu TechPark, and UNDP Bhutan convened at JSW Law School for a workshop. Participants identified that the justice sector remains predominantly reliant on paper-based case processing, resulting in administrative delays and isolated data silos across investigative, prosecutorial, and judicial bodies. Geographic dispersity across rugged terrain, coupled with language barriers and uneven digital literacy, continues to limit equitable access to formal justice for rural populations. Moreover, current global trends present complex legal, regulatory, and ethical challenges concerning the use of AI, data privacy, cybersecurity, and algorithmic accountability.
+
+The consultations across justice sector institutions highlight an urgent demand for an institutional hub that can translate research into practical technology solutions, ensure human-centered design rooted in the constitutional and communal values of Bhutan, and build capacity to navigate the legal complexities of digital transformation and AI innovations. JusTICe is established to anticipate, prepare for and address these challenges and more, and to embody a national platform where the law of technology and technology for law converge. JusTICe's work is anchored in six core values that guide every decision, programme, and partnership.
+
+GNH alignment: Ground all digital justice innovations, legal frameworks, and policy advice in holistic well-being, ethical technology, and human dignity. Every technology adopted by or through JusTICe must be measurable against Gross National Happiness principles.
+
+Integrity: Act with absolute transparency, fairness, and accountability, prioritising the public interest and the rule of law.
+
+Inclusiveness: Ensure that legal and digital solutions are universally accessible, non-discriminatory, and leave no one behind - regardless of location, gender, ability, or literacy. Solutions must be disability-friendly and considerate of Bhutan's linguistic diversity, including citizens who may not be literate in Dzongkha or English.
+
+Collaboration: Partner openly across sectors to co-create solutions, build local talent, and strengthen the broader justice and technology ecosystem.
+
+Sustainability: Make balanced, forward-looking decisions that preserve institutional resources, ensure long-term financial resilience, and minimise ecological impact.
+
+Compassionate justice: Align technology deployment with Bhutan's constitutional foundations and Buddhist values of compassion, interdependence, and harm prevention.
+
+3. Strategic Direction
+
+3.1 JusTICe 2035 - The North Star
+
+By 2035, JusTICe will be Bhutan's leading national platform and centre of excellence actively shaping the future of justice through law, technology, and human-centred innovation. Its strength comes from serving as a connector, a knowledge hub, and a trusted partner, a space where emerging issues are studied, new ideas tested, and evidence translated into practice. 
+
+3.2 JusTICe Proposition
+
+National platform. JusTICe will serve as a national platform connecting law, technology, justice institutions, academia, government, innovators and other stakeholders. Its role is to enable collaboration and shape the direction of justice transformation.
+
+From knowledge to practice. JusTICe will connect research, policy and education with practical innovation. It will help identify challenges based on empirical research, develop and test solutions, and support the adoption of appropriate approaches.
+
+Human-centred innovation. JusTICe will place people at the center of technological transformation. Innovation will be considered not only in terms of efficiency or technical performance, but also in relation to accessibility, fairness, accountability, human dignity and GNH.
+
+Globally relevant. JusTICe will continuously co-learn and build for the future with global partners, grounded in the Bhutanese experience and values. 
+
+3.3 Strategic Architecture
+
+The JusTICe 2035 strategy for research, policy, innovation, capacity building and justice transformation is organised around a continuous cycle: engaging, thinking, designing, building, testing, scaling, and iterating. 
+
+Engage: understand the experiences, needs, and challenges of people and justice institutions.
+
+Think: examine emerging issues, technologies, legal questions, risks, and opportunities.
+
+Design: mould legal, technological, institutional, and user perspectives together to develop appropriate  responses.
+
+Build: develop knowledge, capabilities, prototypes, tools, standards, and approaches.
+
+Test: experiment in controlled and responsible environments, evaluate results, and generate evidence.
+
+Scale: support approaches that demonstrate value to move into wider institutional practice.
+
+Iterate: capture evidence and lessons learnt to develop the next cycle.
+
+4. Flagship Goals
+
+Goal 1: Establish JusTICe as Bhutan's Leading Centre for Research, Ethical Policy Development, and Technology Law Capacity Building
+
+This goal establishes JusTICe as the intellectual and regulatory backbone of Bhutan's justice ecosystem with respect to emerging technologies. It encompasses horizon scanning, academic research, curriculum design, capacity building for regulators and practitioners, and the development of a GNH-aligned ethical governance framework - all of which are foundational to the long-term success of Mandate II. The capability-building platform connects research, professional development, legal and technology education, AI literacy, and interdisciplinary learning, strengthening the people and institutional capability needed to navigate technological change in justice.
+
+A robust technology law research programme is established, producing relevant, timely, and evidence-based publications and policy inputs that inform Bhutan’s digital governance. 
+
+A GNH-aligned ethical and constitutional framework for digital governance, built on human agency and accountability, is developed in collaboration with key partners and recognised as a national reference standard for technology deployment.
+
+Develop a GNH Algorithmic Impact Assessment tool to evaluate public sector AI systems for fairness, human agency, cultural preservation, and societal well-being before deployment.
+
+Establish an AI-powered Bhutan Digital Rights and Emerging Technology Observatory that leverages generative and agentic AI for continuous horizon scanning, analysis, early identification of emerging technology risks and opportunities, and monitoring of developments affecting digital rights, justice, and GNH in Bhutan.
+
+Specialised digital law and technological innovation courses are integrated into JSW Law's academic curriculum and accessible to both law and technology students. Pedagogy is aligned to emerging needs and grounded in constitutional values..
+
+Key justice sector stakeholders - including judicial personnel, practitioners, users, academia, regulators, and policymakers - demonstrate strengthened capacity to understand and govern emerging technologies through a structured training programme.
+
+Design and roll out tailored digital and AI Literacy programs that address distinct generational needs and socio-economic contexts, prioritizing: children, vulnerable communities, historically marginalized sections of society, people with disabilities.
+
+Pioneer legal technologies for climate and environmental governance, leveraging geospatial data, satellite imagery, and environmental analytics to strengthen compliance, conservation tracking, and climate rights enforcement.
+
+Components: Horizon Scanning & Emerging Technology Ethics and Governance · AI & Technology Law Pedagogy · Policy & Regulation 
+
+Goal 2: Position JusTICe as Bhutan's Thought Leader and Regional Voice on the Law of Tech and Digital Justice
+
+This goal builds JusTICe's external voice and convening power - nationally and regionally. It encompasses the Centre's advisory role to government, publications, and international networks.
+
+JusTICe is recognised as the authoritative national voice on technology law and emerging innovations like AI - regularly consulted by government, the legislature, the judiciary, and industry on digital governance matters.
+
+An active national and international advisory and knowledge network is established - connecting JusTICe with leading technology law experts, institutions, and regional partners through formal linkages and exchange programmes.
+
+A flagship annual State of Digital Justice in Bhutan report is published - tracking progress, identifying gaps, highlighting novel solutions and approaches across Bhutan's digital justice ecosystem.
+
+Co-design regulatory sandboxes and legal frameworks tailored for high-tech zones like the Gelephu Mindful City, balancing international commercial tech standards with Bhutan’s ethos of mindful, human-centric regulation.
+
+Components: International Partnerships · Knowledge Exchange · Regional Networks 
+
+Goal 3: Improve Access to Justice Through Digital Innovation and People-Centred Legal Services
+
+This goal operationalizes JusTICe's second mandate - translating research and innovation into tangible improvements into how citizens experience justice. It prioritizes citizen-centred design, empirical grounding, and simplification of legal processes across Bhutan's justice sector, promoting the rule of law.
+
+Establish a comprehensive and authoritative legal resource database for Bhutan, consolidating and systematically organising legislation, regulations, judicial decisions, legal scholarship, and other relevant legal materials into a reliable and accessible digital repository leveraging emerging technologies and AI.
+
+Integrate Bhutan NDI into all digital justice systems to enable secure biometric authentication, verifiable digital legal credentials (power of attorney, digital signatures, legal licenses), and encrypted court e-filing, ensuring complete privacy and data sovereignty for citizens.
+
+Dzongkha-native legal AI and Natural Language Processing (NLP) capabilities are established, enabling accurate automated translation, voice-to-text court logging, and intuitive legal search across national databases.
+
+Enhance public access to legal information and services through bilingual - available in English and Dzongkha digital platforms - with due consideration for disability accessibility, varying levels of digital literacy, and Bhutan's linguistic diversity.
+
+Justice institutions deliver efficient, accessible, and technology-enabled services that reduce barriers to justice - including through for example, an Online Dispute Resolution (ODR)  platform for an identified sphere of disputes, e-filing, appropriate digital case management tools, and accountable and transparent mechanisms.
+
+Legal processes are simplified and made more citizen-friendly - reducing procedural barriers through collaborative process reengineering, community advocacy, and the identification of appropriate dispute resolution mechanisms.
+
+Digital justice solutions developed by or through JusTICe are evidence-based - informed by systematic empirical data on how citizens access, interact with, and experience the justice system.
+
+Components: Knowledge Commons · Data Commons · Technology Commons · Design & Standards · Innovation Commons
+
+Goal 4: Establish and Operationalise the Justice Innovation Lab as a National Platform for Collaborative Innovation and Justice Entrepreneurship
+
+The Justice Innovation Lab is the physical and operational heart of JusTICe's second mandate – a dedicated space for turning justice challenges into ideas, prototypes, and tested solutions, bringing together justice institutions, legal professionals, technologists, researchers, and designers to co-design and experiment with creative approaches.
+
+A fully operational Justice Innovation Lab is established within JusTICe - serving as a dedicated space for the prototyping, testing, and scaling of digital justice solutions and tools that help institutions assess and oversee AI systems, with a comprehensive governance framework covering the full lifecycle of innovations.
+
+A sustainable and inclusive national justice innovation pipeline is established, enabling justice institutions, communities, technologists, researchers, and other partners to identify priority justice challenges and develop, test, showcase, and scale solutions through innovation challenges, hackathons, innovation sprints, and pilot programmes.
+
+Establish a structured justice technology innovation and scale-up pathway that enables emerging technologies and legal-tech solutions to progress from problem identification and prototyping through controlled testing, evaluation, adoption, and scaling, supported by a Bhutan-specific evaluation framework, reusable technology resources, and appropriate safeguards for legal compliance, constitutional values, GNH, privacy, security, accessibility, environmental sustainability, and measurable justice outcomes.
+
+Justice sector institutions and relevant partners demonstrate strengthened collaboration and accountable frameworks for digital innovation - through joint pilot projects with technology and research partners, regular stakeholder consultations, and the development of a regulatory framework for Bhutan's legal technology policy.
+
+Create a JusTICe Technology Standards and Reference Library, documenting technical, legal, ethical, accessibility, procurement, and governance standards emerging from the Lab.
+
+Components: Designing · Prototyping · Experimentation · Learning
+
+5. Institutional Enablers
+
+5.1 Governance Structure
+
+Effective governance is the foundation of JusTICe's long-term credibility and impact. The governance framework ensures strategic oversight, accountability, risk management, and timely decision-making - while enabling the agility needed for shared infrastructure, grants, and technical talent as an innovation-focused centre. JusTICe operates through a multi-sectoral governance model with the following structure:
+
+Governing Council: Provides strategic direction, approves major plans and budgets, monitors performance against the Vision Paper, and ensures institutional accountability.
+
+Academic Council: Provides academic and administrative oversight for JusTICe, ensuring all research, curriculum and training modules, and public outputs align with JSW Law's academic standards and quality requirements.
+
+Executive Secretariat: Leads day-to-day strategy execution, manages resources and partnerships, and provides progress reports. Converts strategic goals into annual operational plans, budgets, and performance targets.
+
+JusTICe Advisory Board: A multi-sectoral body comprising national and international experts and representatives from core partner institutions. The Advisory Board provides specialist advice, and stakeholder perspectives. 
+
+Technical and Working Groups: Participate in design and product rollout, ensuring quality assurance based on stakeholder perspectives. Composed primarily of representatives of the Justice Sector agencies on task-specific needs.
+
+5.2 Partner Ecosystem and Resource Mobilisation
+
+JusTICe is anchored by a transparent, multi-sectoral governance model that enforces clear institutional roles, shared oversight, and robust accountability mechanisms across all core partner entities. To guarantee long-term operational resilience, the Centre maintains a diversified funding portfolio - combining institutional allocations, competitive research grants, international development partnerships, fee-for-service initiatives, and an endowment fund—complemented by arrangements to secure shared infrastructure and technical talent. Driven by a highly qualified core team operating under structured professional development pathways, the Centre embeds continuous performance monitoring, periodic strategic reviews, and a comprehensive impact assessment to ensure continuous alignment with national priorities and international legal standards.
+
+JusTICe operates through a multi-sectoral partnership model. The following institutions have been identified as core partners, with their roles and contributions to be formalised in Phase I:
+
+Institution
+
+Role
+
+Primary Contribution
+
+Jigme Singye Wangchuk School of Law
+
+Lead Institution
+
+Academic leadership, governance, faculty expertise, and physical space for the Centre and the Justice Innovation Lab.
+
+GovTech Agency
+
+Core Partner & Funding Partner
+
+Cloud infrastructure, digital platform support, technical standards, and e-Government advice & integration.
+
+Druk Holding & Investments (DHI)
+
+Core Partner & Funding Partner
+
+Innovation grants, private sector linkages, and support for the Justice Innovation Lab's entrepreneurship ecosystem.
+
+Royal Court of Justice (RCoJ) / Bhutan Alternative Dispute Resolution Center (BADRC) / Legal Aid Centre (LAC) / Bhutan National Legal Institute (BNLI) / Bar Council of Bhutan
+
+Royal Bhutan Police (RBP) / National Commission for Women and Children (NCWC) / Pema Secretariat 
+
+Core Partner
+
+Capacity building, institutional system access, ODR platform piloting, and real-world problem identification and solutioning for the Innovation Lab. 
+
+Office of the Attorney General (OAG) / Anti-Corruption Commission (ACC) 
+
+Core Partner
+
+Legal advisory, policy compliance guidance, and government legal needs identification.
+
+Academic Institutions
+
+Academic Partners
+
+College of Science and Technology (CST), Gyalposhing College of Information Technology (GCIT): Student talent in the Innovation Lab, co-curriculum development, and research collaboration.
+
+Seoul National University, Wesleyan University: Partners for a potential consortium for academic and policy research.
+
+Thammasat University, National Law School of India University, National University of Singapore, Jindal Global Law School, University of Victoria: Academic and research collaboration.
+
+Bhutan InfoComm and Media Authority (BICMA)
+
+Regulatory Partner
+
+Media and communications regulation advisory, and public engagement strategy.
+
+Department of Media, Creative Industry and Intellectual Property (DoMCIIP)
+
+Policy Partner
+
+Industry policy guidance, intellectual property regulation, and digital economy alignment.
+
+UNICEF, UNDP & Development Partners
+
+Funding & Technical Partners
+
+Development funding, international technical expertise, and capacity building support.
+
+Royal Government of Bhutan (RGoB)
+
+Advisory
+
+Policy, financial, and execution support, and collaboration on an as-needed basis. 
+
+Advisory Network
+
+Advisory
+
+Domestic (relevant partners from Geluphu Mindfulness City) and global best practices, research collaboration, visiting fellowships, and regional networking.
+
+5.3 Leveraging JSW’s Experiential Learning Framework
+
+JusTICe will operate as a cross-cutting platform supporting and connecting JSW Law’s existing clinics, centres, academic programmes and experiential learning activities. It will provide technological, research, design and innovation capacity that enables existing units to explore how emerging technologies can strengthen their work and respond to evolving justice needs.
+
+The clinics will serve as important pathways for identifying real-world justice challenges and, where ethically and legally appropriate, co-designing and testing responses. JSW Law has four clinics: the Human Dignity Clinic, the Appropriate Dispute Resolution Clinic, the Entrepreneurship Clinic and the Environment Clinic. The Law School also has [X] centres:
+
+Together with the various clinics and centres of the law school, the Justice Innovation Lab allows for a multi-disciplinary approach across theory and practice. Student participation will further their experiential learning, enabling them to work alongside technologists, researchers, practitioners and justice institutions on supervised interdisciplinary projects. 
+
+5.4 Data and Digital Governance
+
+JusTICe applies consistent standards for data, technology, and AI governance across all its initiatives based on its core values, set out in Section [X]. 
+
+Given the sensitivity of institutional and justice sector data that may pass through the Lab, physical and related resources, including personnel, will operate under a defined data security and access control framework, covering role based access permissions, secure handling of any justice sector data used in prototyping or testing, and physical access controls for the Justice Innovation Lab itself. This framework will be developed in coordination with JSW Law's existing IT infrastructure and campus network administration.
+
+5.5 Infrastructure
+
+A dedicated technical facility housing the computing infrastructure needed to develop and test AI based solutions, including high performance computing resources to support multi agent AI systems and other emerging technologies used across JusTICe's research and innovation work. The Lab will operate within JSW Law's current campus facilities, with plans to relocate to a purpose built space once construction of the new campus is completed under JSW Law Phase II.
+
+An open discussion and project space where technologists, lawyers, students, and other stakeholders can meet to exchange ideas and work through legal and technical questions together. The room will also be available to JSW Law's clinics, centres, and experiential learning students, enabling them to align their work closely with the justice innovation Lab and work hand in hand toward common, linear goals while drawing on common resources. 
+
+6. Three-Year Implementation Framework: 2026–2029
+
+This three-year plan translates each strategic goal into a clear sequence of milestones. The timeline is designed as a practical management tool for annual planning, budgeting, performance review, and accountability. The implementation is structured across three phases:
+
+Phase I: Inception (November 2026 — December 2026): Establish foundational building blocks of JusTICe.
+
+Phase II: Incubation & Operationalisation (November 2026 — November 2028): Build core academic programmes, launch public engagement, pilot digital citizen services, operationalise the Justice Innovation Lab, and formalise partner arrangements.
+
+Phase III: Scaling & Strategic Assessment (November 2028 — November 2029): Scale digital platforms nationwide, institutionalise executive education and policy advisory services, evaluate strategic impact, and establish long-term sustainability.
+
+Phase & Timeline
+
+Key Strategic Milestones
+
+Phase I: Inception 
+
+(November 2026 — December 2026)
+
+Establish foundational institutional building blocks.
+
+Establish the Advisory Board and the process for setting up ad hoc technical and working groups.
+
+Phase II: Incubation & Operationalization 
+
+(November 2026 — November 2028)
+
+Research
+
+Initiate baseline research on emerging technologies – such as AI – based on community consultations.
+
+Develop and maintain a comprehensive, authoritative, and accessible legal resource database for Bhutan that is built with cost-effective technological solutions such as AI agents, hybrid Retrieval-Augmented Generation (RAG), and cloud infrastructure.
+
+Finalise a preliminary GNH-aligned ethical and constitutional framework for digital governance and guidelines for the ethical use of AI, keeping human decision making and accountability at the centre.
+
+Capacity Building
+
+Integrate introductory AI and emerging technology law modules into the JSW Law academic curriculum.
+
+Conduct training needs assessment and roll out executive education programmes for judges, community leaders, regulators, policymakers, diplomats, and non-lawyers.
+
+Global Engagement
+
+Sign MoUs with core partners formalising resource-sharing arrangements.
+
+Host and participate in technology-focused conferences. 
+
+Publish the 1st State of Digital Justice report.
+
+Establish international advisory networks and commence visiting fellowship and exchange programmes.
+
+Innovation Lab
+
+Gather empirical data on citizens' legal needs through community surveys.
+
+Consolidate and digitize institutional data and equip the Justice Innovation Lab for efficient performance.
+
+Run initial legal tech concepts and oversight tools through a dedicated space for testing and iteration.
+
+Phase III: Scaling & Strategic Assessment
+
+(November 2028 — November 2029)
+
+Institutionalize full-scale Executive Education offerings and policy advisory services.
+
+Encourage bilingual (Dzongkha/English) public digital rights education campaigns and entrepreneurs.Transition successful prototypes into fully deployed legal tech tools across the justice sector.
+
+Pilot the Online Dispute Resolution platform and simplified digital legal service platforms in select dzongkhags.
+
+Conduct a comprehensive review and impact study of JusTICe. 
+
+Measure achievements against strategic goals, refine operational strategies, and establish the pathway to long-term institutional sustainability.
+
+7. Measurement Matrix
+
+Measuring the impact of a specialized institution like JusTICe requires balancing academic productivity with tangible systemic reform. Institutional success cannot rely solely on quantitative  counts (e.g., number of reports written); it must track outcome metrics (e.g., policy adoption, reduction in case resolution times, and public trust).
+
+To evaluate progress effectively, the measurement framework below maps concrete problems within Bhutan's digital justice landscape to JusTICe’s core goals, defining key performance indicators (KPIs), operational challenges with solutions, and a strategic execution roadmap.
+
+Focus Area
+
+Concrete Problem Identified
+
+Potential Challenges
+
+Proposed Solution to Challenges
+
+Success Metrics & Key Performance Indicators 
+
+Strategic Roadmap (Phased Execution) 
+
+Goal 1: Research, Ethical Policy & Capacity Building 
+
+Absence of a nodal, GNH-aligned ethical framework for emerging technologies; lack of specialized Tech Law expertise among stakeholders. 
+
+Low initial technical literacy among legal personnel and potential resistance to adapting traditional procedures to digital norms. 
+
+Design modular, practical training tracks co-developed with international experts; implement incentivized capacity building for justice sector staff. 
+
+• 100% of key justice sector regulators trained within 24 months.
+
+• Adoption rate of JusTICe policy briefs by government bodies.
+
+• Creation of 1+ GNH-aligned National Reference Standard for technological development.
+
+Phase 1 (Months 1–6): Draft Tech Law curriculum and launch stakeholder training needs assessment.
+
+Phase 2 (Months 7–18): Publish GNH-Ethical Framework and integrate courses and executive education programmes.
+
+Goal 2: Thought Leadership & Regional Voice 
+
+Fragmented national dialogue on digital legal rights; lack of participation by Bhutan in global and regional tech-law forums. 
+
+Risk of misaligned international messaging or conflicting policy statements relative to national vision. 
+
+Consolidate JusTICe’s position as the nodal agency for policy; formally integrate relevant government agencies and streamline national and global communications and event participation. 
+
+• Annual publication of the State of Digital Justice report.
+
+• 25%+ annual growth in regional / international conference delegates.
+
+• Number of formal institutional exchanges with international tech-law centers.
+
+Phase 1 (Months 1–12): Establish Advisory Network and publish inaugural State of Digital Justice baseline.
+
+Phase 2 (Months 13–24): Host and participate in technology-focused conferences. 
+
+Goal 3: Access to Justice  
+
+High procedural barriers, geographic isolation, and linguistic/digital literacy divides restricting equitable access to formal court systems.
+
+Digital exclusion in rural gewogs due to connectivity gaps, low device access, complex digital interfaces, or cost-restrictive internet access. 
+
+Partner with local community centers for assisted access; enforce bilingual (Dzongkha/English); inclusive UX design; reduced cost of internet.
+
+• Comprehensive intelligent legal resource database established and operationalised leveraging emerging technologies like AI multi-agent models developed locally as regionally relevant applications.
+
+• 30%+ reduction in average disposition time for disputes handled via pilot project.
+
+• 100% compliance with WCAG accessibility and dual-language standards.
+
+• Measured increase in public awareness of digital legal rights across rural gewogs.
+
+Phase 1 (Months 6–18): Conduct empirical access-to-justice research and design a prototype solution.
+
+Phase 2 (Months 19–36): 
+
+Operationalise the legal resource database, launch the ODR pilot, and roll out bilingual digital public education campaigns.
+
+Goal 4: Justice Innovation Lab  
+
+Isolation between lawyers and technologists; lack of incentives and a safe testing environment to prototype LegalTech solutions safely. 
+
+Technical prototypes failing to scale due to resource constraints, security risks, data sovereignty concerns, or lack of integration.
+
+Establish incentive schemes, a framework with security vetting before deploying any tool into live judicial environments. 
+
+• 3–5 LegalTech prototypes annually.
+
+• At least 1 lab-incubated prototype transitioned to live judicial/sector deployment.
+
+• Encourage entrepreneurship and ensure active participation rates from citizens.
+
+Phase 1 (Months 1–12): Build Lab infrastructure, develop strategy to incentivize entrepreneurism; finalize guidelines for a dedicated space for prototyping and testing solutions.
+
+Phase 2 (Months 13–36): Scale up top solutions and transition viable pilots to the justice sector.
